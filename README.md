@@ -1,8 +1,8 @@
 # Direct Debit
 
-We pride ourselves in providing businesses with the ability to automate [debit order collection](https://www.directdebit.co.za) via our flexible, secure and efficient [debit order system](https://www.directdebit.co.za). Direct Debit also provide an industry first in our E-Mandate, [electronic debit order authorisation](https://www.emandate.co.za) and [DebiCheck debit order collection](https://www.directdebit.co.za/debicheck) solutions.
+We pride ourselves in providing businesses with the ability to automate [debit order collection](https://www.directdebit.co.za) via our flexible, secure and efficient [debit order system](https://www.directdebit.co.za). Direct Debit also provides an industry first in our E-Mandate, [electronic debit order authorisation](https://www.emandate.co.za) and [DebiCheck debit order collection](https://www.directdebit.co.za/debicheck) solutions.
 
-If you're a developer you can find out more about our [debit order integrations](https://www.directdebit.co.za/debit-order-integrations) and [debit order api](https://docs.directdebit.co.za/start/developers).
+If you're a developer you can find out more about automating your debit order collections via our [debit order integrations](https://www.directdebit.co.za/debit-order-integrations) and [debit order api](https://docs.directdebit.co.za/start/developers).
 
 ## Contact Us
 
