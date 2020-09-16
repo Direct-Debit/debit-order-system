@@ -6,4 +6,4 @@ If you're a developer you can find out more about automating your debit order co
 
 ## Contact Us
 
-Get in touch via email to [support@directdebit.co.za](mailto:support@directdebit.co.za) or via 021 671 9800.
+Get in touch via email to [support@directdebit.co.za](mailto:support@directdebit.co.za) or call us on 021 671 9800.
